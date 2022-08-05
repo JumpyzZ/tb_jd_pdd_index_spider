@@ -10,6 +10,7 @@ sorted_item_list = []
 img_hist = None
 img_box = None
 
+
 def yviews(*args):
     listbox_No.yview(*args)
     listbox_platform.yview(*args)

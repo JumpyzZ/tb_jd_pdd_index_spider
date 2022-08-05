@@ -1,7 +1,7 @@
 import time
 
 
-class Goods():
+class Goods:
     def __init__(self, keyword="", platform="", link="", title="", price=0.0):
         self.keyword = keyword
         self.platform = platform

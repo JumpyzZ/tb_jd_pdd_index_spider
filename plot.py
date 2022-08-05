@@ -6,7 +6,7 @@ mpl.rcParams['font.sans-serif'] = ['SimHei']
 mpl.rcParams['font.serif'] = ['SimHei']
 
 import seaborn as sns
-sns.set_style("darkgrid", {"font.sans-serif":['simhei', 'Arial']})
+sns.set_style("darkgrid", {"font.sans-serif": ['simhei', 'Arial']})
 
 
 def histPlot(good_list):
